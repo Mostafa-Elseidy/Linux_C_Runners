@@ -1,5 +1,5 @@
 # Echo any command 
-A C program on Ubuntu 
+A C program on Ubuntu that echo any command.
 ## Objective
 - Echo any command entered by the user.
 - If the user entered "exit", the shell will reply with "Good Bye :)" and terminate. 
