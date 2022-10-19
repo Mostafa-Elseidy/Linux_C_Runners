@@ -1,7 +1,7 @@
 # my_pwd "print current directory" 
 A C utility on Ubuntu 
 ## Objective
-- print the current dirctory on terminal.
+- print the current dirctory on terminal
 ## Syscalls and commands used 
 1. getcwd
 2. write 
