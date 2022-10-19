@@ -1,5 +1,5 @@
 # simple shell
-A C program to mimic simple features of linux shell and apply parent child concept. 
+A C program to mimic simple features of linux shell and apply parent child concept
 
 ## Objective
 - Executing bash commands (e.g. "ls -l", "pwd", etc.)     
